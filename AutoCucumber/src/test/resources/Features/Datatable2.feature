@@ -32,7 +32,7 @@ Given User is on login page
    Scenario Outline: Validate First Name field
     When User enters user "<username>" first name  
     Then User checkss user first name is present
-    And User checks user surname is present
+    And User checks user surnamee is present
 
    
    @smoke
